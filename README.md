@@ -13,7 +13,7 @@
 
 ## About
 
-Virtu Vault can be used for managing different brands, games, players, bets, payments and bonuses on playing games. 
+A multi-role dashboard developed with Vue JS and CSS3, designed to enhance engagement in crypto gaming while streamlining data and payment interactions for users and brands.
 
 ## Getting Started
 
